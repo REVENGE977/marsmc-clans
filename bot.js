@@ -481,4 +481,4 @@ hero.on('message',async message => {
   }
 });
 
-hero.login('NTM1Njc1NzA1Nzk1Njc0MTMy.DyLmZg.mt7Fgxl890-qe65lTCQwR71NJZg')
+hero.login('NTM1Nzg5MjA4MTQ5OTUwNDY2.DyUSFw.xXiU4798i9TaZGq1EvsWa6SYGhY')
