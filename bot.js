@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const hero = new Discord.Client()
 const fs = require('fs');
-const prefix = 'r!'
+const prefix = 'm!
 
 const clans = JSON.parse(fs.readFileSync("./ClanSystem/ClanSystem.json", 'UTF8'));
 const system = JSON.parse(fs.readFileSync("./ClanSystem/ClanStats.json", 'UTF8'));
